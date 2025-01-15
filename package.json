@@ -1,0 +1,22 @@
+{
+  "name": "nodesql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikitha Vepati",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^9.3.0"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "method-override": "^3.0.0",
+    "mysql2": "^3.12.0",
+    "nodemon": "^3.1.9",
+    "uuid": "^11.0.5"
+  }
+}
